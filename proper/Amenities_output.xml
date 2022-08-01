@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Furnishing_ID</Data></Cell>
+			<Cell><Data ss:Type="String">Property_ID</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Air_Condition</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Parking</Data></Cell>
+			<Cell><Data ss:Type="String">Number_Of_Parking</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Central_Heating</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Laundry</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Fireplace</Data></Cell>
+			<Cell><Data ss:Type="String">Are_Closets</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Backyard</Data></Cell>
+			<Cell><Data ss:Type="String">Are_Pets_Allowed</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Microwave</Data></Cell>
+			<Cell><Data ss:Type="String">Is_Dishwasher</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

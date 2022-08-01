@@ -1,0 +1,16 @@
+INSERT INTO `apartment_rent`.`amenities` (`Furnishing_ID`, `Property_ID`, `Is_Air_Condition`, `Is_Parking`, `Number_Of_Parking`, `Is_Central_Heating`, `Is_Laundry`, `Is_Fireplace`, `Are_Closets`, `Is_Backyard`, `Are_Pets_Allowed`, `Is_Microwave`, `Is_Dishwasher`) 
+VALUES ('26', '26', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'Y', 'Y', 'Y'),
+	('27', '27', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'Y', 'Y', 'Y'),
+	('28', '28', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'Y'),
+	('29', '29', 'Y', 'Y', '1', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'Y'),
+	('30', '30', 'N', 'Y', '1', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'Y'),
+	('31', '31', 'N', 'Y', '1', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'Y'),
+	('32', '32', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'Y', 'Y', 'Y', 'Y'),
+	('33', '33', 'Y', 'Y', '2', 'Y', 'Y', 'Y', 'Y', 'N', 'Y', 'Y', 'Y'),
+	('34', '34', 'N', 'Y', '2', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y'),
+	('35', '35', 'N', 'Y', '2', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y'),
+	('36', '36', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'Y', 'Y', 'Y'),
+	('37', '37', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'Y', 'Y', 'Y'),
+	('38', '38', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'Y'),
+	('39', '39', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'Y', 'Y', 'Y'),
+	('40', '40', 'Y', 'Y', '2', 'Y', 'Y', 'N', 'Y', 'N', 'Y', 'Y', 'Y');
